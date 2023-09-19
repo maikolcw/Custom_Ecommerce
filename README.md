@@ -22,6 +22,7 @@ Tech stacks used:
     Shadcn
     Clerk
     React-hook-form
+    Planetscale
     Zod
     Zustand
 
