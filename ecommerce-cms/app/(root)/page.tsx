@@ -7,7 +7,7 @@ import { UserButton } from "@clerk/nextjs";
 const SetupPage = () => {
     return (
         <div className="p-4">
-            <Modal title="Test" description="Test description" isOpen onClose={() => {}}></Modal>
+            <Modal title="Test" description="Test description" isOpen onClose={() => {}}>Children</Modal>
         </div>
     )
 }
