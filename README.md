@@ -21,4 +21,7 @@ Tech stacks used:
     Prisma
     Shadcn
     Clerk
+    React-hook-form
+    Zod
+    Zustand
 
