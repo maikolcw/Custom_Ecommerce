@@ -21,7 +21,9 @@ Tech stacks used:
     Prisma
     Shadcn
     Clerk
+    Axios
     React-hook-form
+    React-hot-toast
     Planetscale
     Zod
     Zustand
