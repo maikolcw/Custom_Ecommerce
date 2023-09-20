@@ -21,9 +21,11 @@ export default function RootLayout({
   return (
     <ClerkProvider>
       <html lang="en">
-        <ToastProvider />
-        <ModalProvider />
-        <body className={inter.className}>{children}</body>
+        <body className={inter.className}>
+          <ToastProvider />
+          <ModalProvider />
+          {children}
+        </body>
       </html>
     </ClerkProvider>
   )
