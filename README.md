@@ -22,6 +22,8 @@ Tech stacks used:
     Shadcn
     Clerk
     Axios
+    Cloudinary
+    Date-fns
     React-hook-form
     React-hot-toast
     Planetscale
