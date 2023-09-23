@@ -29,6 +29,7 @@ Tech stacks used:
     Planetscale
     Lucide-react
     Query-string
+    Headlessui/react
     Zod
     Zustand
 
