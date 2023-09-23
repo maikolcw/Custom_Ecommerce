@@ -28,6 +28,7 @@ Tech stacks used:
     React-hot-toast
     Planetscale
     Lucide-react
+    Query-string
     Zod
     Zustand
 
