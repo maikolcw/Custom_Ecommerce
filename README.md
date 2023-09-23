@@ -27,6 +27,7 @@ Tech stacks used:
     React-hook-form
     React-hot-toast
     Planetscale
+    Lucide-react
     Zod
     Zustand
 
