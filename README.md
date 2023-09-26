@@ -19,6 +19,7 @@ Tech stacks used:
     Tailwindcss
     MySQL
     Prisma
+    Stripe
     Shadcn
     Clerk
     Axios
