@@ -31,6 +31,7 @@ Tech stacks used:
     Lucide-react
     Query-string
     Headlessui/react
+    Next-themes
     Recharts
     Zod
     Zustand
