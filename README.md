@@ -16,7 +16,7 @@ How to Start:
     Clone the Repository: Download the project from the repository to your local machine.
     Install Dependencies: Run npm install to install all necessary packages for respective cms and store folders
     Set Up Environment: Configure your environment variables, including your database connection string and any necessary API keys for cms and store folder
-    Run the Application: Start the application with npm run dev for respective folders.
+    Run the Application: Start with cms folder with npm run dev then store folder with npm run dev.
 
 Tech Stacks Used:
 
