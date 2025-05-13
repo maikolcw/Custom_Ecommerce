@@ -1,8 +1,8 @@
 About:
 
-Welcome to my Ecommerce and Dashboard CMS, a modern front end ecommerce application coupled with a powerful and intuitive CMS designed to streamline and enhance the online ecommerce store of the user's choosing. Users can create on the fly any type of store with the powerful CMS management system. Whether you're managing products, tracking orders, or analyzing sales data, the CMS platform provides the tools needed to run the ecommerce store with ease.
+Welcome to Custom Ecommerce, a modern front end ecommerce application coupled with a powerful and intuitive content management system(CMS) designed to streamline and enhance the online ecommerce store of the user's choosing. Users can create on the fly any type of store with the powerful CMS. Whether you're managing products, tracking orders, or analyzing sales data, the CMS platform provides the tools needed to run the ecommerce store with ease.
 
-The dashboard of the CMS offers a seamless user experience, combining a sleek interface with robust functionality. Built with the latest technologies, it allows for easy customization and scalability, making it perfect for the user to manage assets and data on the front end of the web application.
+The dashboard in the CMS offers a seamless user experience, combining a sleek interface with robust functionality. Built with the latest technologies, it allows for easy customization and scalability, making it perfect for the user to manage assets and data on the front end of the web application.
 
 Prerequisites:
 
